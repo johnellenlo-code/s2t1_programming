@@ -15,3 +15,9 @@
 
 ###### the same format is applicable to a clickable image but with an extra element, !, in front: ![imagehere](link to image)
 
+# README starts here
+
+## My First Repository
+### About the project
+This is a demo repository built to practice what I've learnt through the DataCamp courses I've been taking as part of my Intro to Programming course.
+###### Credits: 
